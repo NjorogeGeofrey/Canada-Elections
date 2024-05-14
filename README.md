@@ -1,5 +1,5 @@
 # Canada Election 2021 Data Analysis
-##Introduction
+## Introduction
 This R script performs an analysis of the Canada Election 2021 data. The data includes variables related to religion, income category, personal finances, education, and gender identity.
 
 ## Project Structure
